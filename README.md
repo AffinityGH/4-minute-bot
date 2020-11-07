@@ -1,2 +1,2 @@
-# 3 minute bot
+# 4 minute bot
  A bot tutorial.
